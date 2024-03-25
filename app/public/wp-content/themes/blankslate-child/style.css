@@ -1,0 +1,209 @@
+/*
+Theme Name: BlankSlate Child
+Theme URI: https://opencollective.com/blankslate
+Template: blankslate
+Author: TidyThemes
+Author URI: https://opencollective.com/blankslate#section-contributors
+Description: Donations: https://opencollective.com/blankslate. BlankSlate is the definitive WordPress boilerplate starter theme. We've carefully constructed the most clean and minimalist theme possible for designers and developers to use as a base to build websites for clients or to build completely custom themes from scratch. Clean, simple, unstyled, semi-minified, unformatted, and valid code, SEO-friendly, jQuery-enabled, no programmer comments, standardized and as white label as possible, and most importantly, the CSS is reset for cross-browser-compatability and no intrusive visual CSS styles have been added whatsoever. A perfect skeleton theme. For support and suggestions, go to: https://github.com/tidythemes/blankslate/issues. Thank you.
+Tags: accessibility-ready,one-column,two-columns,custom-menu,featured-images,microformats,sticky-post,threaded-comments,translation-ready
+Version: 2024.1709569522
+Updated: 2024-03-04 16:25:22
+
+*/
+
+
+
+#header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    justify-content: flex-start;
+    width: 201px;
+    height: 19px;
+    margin-left: 37px;
+    margin-top: 25px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    gap: 20px;
+}
+
+#menu a {
+    color: black;
+}
+
+#menu-item-239 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #DC9F96;
+    width: 236px;
+    height: 80px;
+    text-align: center;
+}
+
+#menu-item-239 a {
+    color: white;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.input-rencontrer {
+    width: 381px;
+    height: 71px;
+    border-radius: 7px !important;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-style: hidden;
+}
+
+.input-message {
+    width: 381px;
+    height: 271px;
+    border-radius: 7px;
+    margin-top: 20px;
+    border-style: hidden;
+}
+
+.entry-title {
+    display: none !important;
+}
+
+.number-commander {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+.image-quantite {
+    width: 192.53px;
+    height: 128.36px;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    width: 39px;
+    height: 40px;
+    margin-left: 40%;
+}
+
+.commander {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 10px;
+    line-height: 24px;
+    text-align: left;
+    color: white;
+}
+
+#button {
+    margin-left: 40%;
+    width: 198px;
+    height: 55px;
+    top: 1164px;
+    left: 631px;
+    padding: 9px 57px 9px 56px;
+    gap: 0px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    background-color: #E0B9B4;
+    border-style: hidden;
+    font-family: Syne;
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 50px;
+}
+
+#button p {
+    display: flex;
+    justify-content: center;
+}
+
+.vertical-line {
+    display: flex;
+    border-left: white;
+    border-style: solid;
+    border-width: 1px;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    height: 420px;
+
+}
+
+#button2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 198px;
+    height: 55px;
+    top: 1164px;
+    left: 631px;
+    padding: 9px 57px 9px 56px;
+    gap: 0px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    background-color: #E0B9B4;
+    border-style: hidden;
+    font-family: Syne;
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 50px;
+
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fleur {
+    width: 147.32px;
+    height: 134.97px;
+    top: 1709.21px;
+    left: 580.43px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -100px;
+    margin-right: 380px;
+}
+
+.box {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    width: 383px;
+    height: 71px;
+    border-radius: 10px;
+    border-style: hidden;
+    color: white;
+    border-radius: 7px !important;
+}
+
+h4 {
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white !important;
+}
