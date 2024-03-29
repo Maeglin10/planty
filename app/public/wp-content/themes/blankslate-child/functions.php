@@ -23,7 +23,6 @@ add_action( 'wp_enqueue_scripts', 'chld_thm_cfg_parent_css', 10 );
 
 // Fonction pour ajouter l'élément "Admin" dans le menu à la deuxième position
 function ajouter_admin_dans_menu($items, $args) {
-    // Vérifie si l'utilisateur est connecté
     if (is_user_logged_in()) {
         // Construit le lien "Admin"
         $admin_link = '<li><a href="' . admin_url() . '">Admin</a></li>';

@@ -59,6 +59,10 @@ Updated: 2024-03-04 16:25:22
     margin-bottom: 20px;
 }
 
+footer a {
+    color: black;
+}
+
 .input-rencontrer {
     width: 381px;
     height: 71px;
@@ -120,7 +124,6 @@ Updated: 2024-03-04 16:25:22
     padding: 9px 57px 9px 56px;
     gap: 0px;
     border-radius: 5px 5px 5px 5px;
-    opacity: 0px;
     background-color: #E0B9B4;
     border-style: hidden;
     font-family: Syne;
@@ -147,6 +150,26 @@ Updated: 2024-03-04 16:25:22
 
 }
 
+#button-1 {
+    width: 198px;
+    height: 55px;
+    top: 1164px;
+    left: 631px;
+    padding: 9px 57px 9px 56px;
+    gap: 0px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #E0B9B4;
+    border-style: hidden;
+    font-family: Syne;
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    align-items: center;
+    align-content: center;
+    padding-top: 18px;
+    margin-bottom: 30px;
+}
+
 #button2 {
     display: flex;
     justify-content: center;
@@ -158,7 +181,6 @@ Updated: 2024-03-04 16:25:22
     padding: 9px 57px 9px 56px;
     gap: 0px;
     border-radius: 5px 5px 5px 5px;
-    opacity: 0px;
     background-color: #E0B9B4;
     border-style: hidden;
     font-family: Syne;
@@ -182,7 +204,6 @@ Updated: 2024-03-04 16:25:22
     top: 1709.21px;
     left: 580.43px;
     gap: 0px;
-    opacity: 0px;
     margin-top: -100px;
     margin-right: 380px;
 }

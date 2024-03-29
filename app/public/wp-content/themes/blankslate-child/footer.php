@@ -2,7 +2,7 @@
 </div>
 <footer id="footer" role="contentinfo" class="footer">
     <div id="copyright">
-        <a>Mentions légales</a>
+        <a href="http://planty.local/">Mentions légales</a>
     </div>
 </footer>
 </div>
