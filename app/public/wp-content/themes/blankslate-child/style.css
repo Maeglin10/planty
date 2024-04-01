@@ -229,12 +229,12 @@ h4 {
     color: white !important;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 320px) {
     .contact {
       width: 90%;
     }
     .header {
-        width: 60%;
+        width: 50%;
     }
     .commander {
         width: 90%;
@@ -246,7 +246,7 @@ h4 {
     }
   }
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 760px) {
     .contact {
         width: 80%;
       }
