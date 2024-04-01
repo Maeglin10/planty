@@ -228,3 +228,32 @@ h4 {
     margin-top: 20px;
     color: white !important;
 }
+
+@media screen and (max-width: 360px) {
+    .contact {
+      width: 90%;
+    }
+    .header {
+        width: 60%;
+    }
+    .commander {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+    .logo {
+        display: none;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .contact {
+        width: 80%;
+      }
+      .header {
+          width: 60%;
+      }
+      .commander {
+          width: 50%;
+      }
+  }
